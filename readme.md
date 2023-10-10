@@ -40,5 +40,3 @@ Git или удалять таковые из него.  Если никаких
 ### Источники
 * https://www.atlassian.com/ *
 
-### Источники
-* https://www.atlassian.com/ *
