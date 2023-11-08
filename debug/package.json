@@ -1,5 +1,5 @@
 {
-  "name": "debug",
+  "name": "first_unittests",
   "version": "1.0.0",
   "description": "",
   "main": "debug.js",
@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "khusaenova Ladysh",
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0"
