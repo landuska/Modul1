@@ -14,3 +14,5 @@ const calculateBonus = (a, b) => {
     };
 
    console.log(calculateBonus(30,3)) 
+
+   module.exports = calculateBonus;
